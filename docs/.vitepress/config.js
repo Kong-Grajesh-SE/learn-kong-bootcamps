@@ -54,6 +54,7 @@ export default defineConfig({
           { text: '🔄 APIOps',             link: 'https://kong-grajesh-se.github.io/learn-kong-apiops-bootcamp/', target: '_blank' },
           { text: '🌐 Developer Portal',   link: 'https://kong-grajesh-se.github.io/learn-kong-dev-portal/', target: '_blank' },
           { text: '🎮 Insomnia',           link: 'https://kong-grajesh-se.github.io/learn-insomnia/', target: '_blank' },
+          { text: '🌋 Volcano SDK',        link: 'https://kong-grajesh-se.github.io/learn-volcano-sdk/', target: '_blank' },
         ],
       },
       {

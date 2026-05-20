@@ -64,9 +64,9 @@ features:
 
   - icon: 🌋
     title: "Volcano SDK Bootcamp"
-    details: "Coming soon - build custom Kong plugins with the Volcano SDK."
-    link: "#"
-    linkText: Coming soon
+    details: "5 modules, 10 labs. Build production-ready AI agents with Volcano Agent SDK - fluent API, MCP tools, multi-provider pipelines, observability."
+    link: https://kong-grajesh-se.github.io/learn-volcano-sdk/
+    linkText: Start bootcamp →
 
 ---
 

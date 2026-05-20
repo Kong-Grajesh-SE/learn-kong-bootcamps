@@ -323,12 +323,86 @@ body {
 .kong-deploy-card .card-title { font-family: 'Funnel Sans', sans-serif; font-weight: 700; color: var(--kong-lime); font-size: 0.95rem; margin-bottom: 6px; }
 .kong-deploy-card .card-desc { font-size: 0.85rem; color: var(--kong-text-muted); line-height: 1.5; }
 
+/* ════════ VERSION BANNER ═════════════════════════════════════════════════ */
+.kong-version-banner {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin: 40px auto 0;
+  max-width: 720px;
+  padding: 14px 20px;
+  background: rgba(204, 255, 0, 0.04);
+  border: 1px solid rgba(204, 255, 0, 0.15);
+  border-radius: 10px;
+  font-size: 0.88rem;
+  line-height: 1.6;
+}
+.kong-version-pill {
+  display: inline-flex;
+  align-items: center;
+  white-space: nowrap;
+  padding: 4px 12px;
+  border-radius: 999px;
+  background: rgba(204, 255, 0, 0.10);
+  color: var(--kong-lime);
+  border: 1px solid rgba(204, 255, 0, 0.30);
+  font-family: 'Space Grotesk', 'Funnel Sans', sans-serif;
+  font-weight: 700;
+  font-size: 0.76rem;
+  letter-spacing: 0.04em;
+}
+.kong-version-text {
+  color: #CDD4CB;
+}
+.kong-version-text strong {
+  color: var(--kong-lime);
+}
+
+/* ════════ STATS STRIP ═══════════════════════════════════════════════════ */
+.kong-stats-strip {
+  display: flex;
+  justify-content: center;
+  gap: 48px;
+  margin: 48px auto 56px;
+  max-width: 720px;
+  padding: 28px 20px;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(49, 57, 25, 0.35);
+  border-radius: 12px;
+}
+.kong-stats-strip .stat {
+  text-align: center;
+}
+.kong-stats-strip .stat-num {
+  font-family: 'Funnel Sans', sans-serif;
+  font-size: 2.2rem;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  line-height: 1;
+  background: linear-gradient(135deg, var(--kong-lime) 0%, #e6ff70 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.kong-stats-strip .stat-label {
+  font-family: 'Funnel Sans', sans-serif;
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--kong-text-muted);
+  margin-top: 6px;
+}
+
 /* ════════ RESPONSIVE ════════════════════════════════════════════════════ */
 @media (max-width: 768px) {
   .VPHero .name    { font-size: 2.2rem; }
   .VPHero .text    { font-size: 1.3rem; }
   .VPHero .tagline { font-size: 0.95rem; }
   .kong-deploy-grid { grid-template-columns: 1fr; }
+  .kong-version-banner { flex-direction: column; text-align: center; gap: 8px; }
+  .kong-stats-strip { gap: 24px; flex-wrap: wrap; }
+  .kong-stats-strip .stat-num { font-size: 1.6rem; }
 }
 
 /* ════════ SCROLL OFFSET - prevent headings hiding under sticky nav ══════ */
