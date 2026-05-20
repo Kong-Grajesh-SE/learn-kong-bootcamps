@@ -96,37 +96,77 @@ features:
 
 ## Learning Paths
 
-### Path 1 - Platform Engineer
+<div class="learning-paths-grid">
 
-Start with the API Gateway Bootcamp for core gateway skills, then add observability (Module 06), APIOps for CI/CD, and the Developer Portal.
+<div class="path-card">
+  <div class="path-header">
+    <span class="path-icon">🏗️</span>
+    <span class="path-title">Platform Engineer</span>
+  </div>
+  <p class="path-desc">Core gateway skills, observability, CI/CD, and API publishing.</p>
+  <div class="path-steps">
+    <a href="https://kong-grajesh-se.github.io/learn-kong-gateway/" class="step">API Gateway</a>
+    <span class="step-arrow">→</span>
+    <a href="https://kong-grajesh-se.github.io/learn-kong-apiops-bootcamp/" class="step">APIOps</a>
+    <span class="step-arrow">→</span>
+    <a href="https://kong-grajesh-se.github.io/learn-kong-dev-portal/" class="step">Dev Portal</a>
+  </div>
+</div>
 
-```
-API Gateway (M01–M06) → APIOps → Developer Portal
-```
+<div class="path-card">
+  <div class="path-header">
+    <span class="path-icon">🤖</span>
+    <span class="path-title">AI / ML Engineer</span>
+  </div>
+  <p class="path-desc">LLM proxy, guardrails, MCP protocols, and agent orchestration.</p>
+  <div class="path-steps">
+    <a href="https://kong-grajesh-se.github.io/learn-kong-ai-gateway/" class="step">AI Gateway</a>
+    <span class="step-arrow">→</span>
+    <a href="https://kong-grajesh-se.github.io/learn-kong-agentic-bootcamp/" class="step">Agentic AI</a>
+    <span class="step-arrow">→</span>
+    <a href="https://kong-grajesh-se.github.io/bring-your-own-agent/" class="step">BYOA</a>
+  </div>
+</div>
 
-### Path 2 - AI / ML Engineer
+<div class="path-card">
+  <div class="path-header">
+    <span class="path-icon">💻</span>
+    <span class="path-title">API Developer</span>
+  </div>
+  <p class="path-desc">Design, test, deploy, and publish APIs end-to-end.</p>
+  <div class="path-steps">
+    <a href="https://kong-grajesh-se.github.io/learn-insomnia/" class="step">Insomnia</a>
+    <span class="step-arrow">→</span>
+    <a href="https://kong-grajesh-se.github.io/learn-kong-gateway/" class="step">API Gateway</a>
+    <span class="step-arrow">→</span>
+    <a href="https://kong-grajesh-se.github.io/learn-kong-dev-portal/" class="step">Dev Portal</a>
+  </div>
+</div>
 
-Start with the AI Gateway Bootcamp for LLM proxy and guardrails, then the Agentic AI Bootcamp for MCP and A2A protocols.
+<div class="path-card">
+  <div class="path-header">
+    <span class="path-icon">🚀</span>
+    <span class="path-title">Full Stack</span>
+  </div>
+  <p class="path-desc">Complete all bootcamps for end-to-end Kong mastery.</p>
+  <div class="path-steps">
+    <a href="https://kong-grajesh-se.github.io/learn-kong-gateway/" class="step">Gateway</a>
+    <span class="step-arrow">→</span>
+    <a href="https://kong-grajesh-se.github.io/learn-kong-ai-gateway/" class="step">AI</a>
+    <span class="step-arrow">→</span>
+    <a href="https://kong-grajesh-se.github.io/learn-kong-agentic-bootcamp/" class="step">Agentic</a>
+    <span class="step-arrow">→</span>
+    <a href="https://kong-grajesh-se.github.io/bring-your-own-agent/" class="step">BYOA</a>
+    <span class="step-arrow">→</span>
+    <a href="https://kong-grajesh-se.github.io/learn-kong-apiops-bootcamp/" class="step">APIOps</a>
+    <span class="step-arrow">→</span>
+    <a href="https://kong-grajesh-se.github.io/learn-kong-dev-portal/" class="step">Portal</a>
+    <span class="step-arrow">→</span>
+    <a href="https://kong-grajesh-se.github.io/learn-insomnia/" class="step">Insomnia</a>
+  </div>
+</div>
 
-```
-AI Gateway → Agentic AI → Bring Your Own Agent
-```
-
-### Path 3 - API Developer
-
-Start with Insomnia for API design and testing, then the API Gateway Bootcamp for deployment, and the Developer Portal for publishing.
-
-```
-Insomnia → API Gateway (M01–M04) → Developer Portal
-```
-
-### Path 4 - Full Stack
-
-Complete all bootcamps in order:
-
-```
-API Gateway → AI Gateway → Agentic AI → BYOA → APIOps → Dev Portal → Insomnia
-```
+</div>
 
 ## Bootcamp Structure
 
