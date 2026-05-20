@@ -17,7 +17,7 @@
 | 5 | **APIOps** | 1 | 4 | decK GitOps, GitHub Actions CI/CD, multi-environment promotion | [learn-kong-apiops-bootcamp ↗](https://kong-grajesh-se.github.io/learn-kong-apiops-bootcamp/) |
 | 6 | **Developer Portal** | 1 | 3 | API publishing, OIDC SSO, RBAC, self-service app registration | [learn-kong-dev-portal ↗](https://kong-grajesh-se.github.io/learn-kong-dev-portal/) |
 | 7 | **Insomnia** | 8 | 8 | API design, collections, environments, testing, mock servers, Inso CLI | [learn-insomnia ↗](https://kong-grajesh-se.github.io/learn-insomnia/) |
-| 8 | **Volcano SDK** | - | - | Coming soon | - |
+| 8 | **Volcano SDK** | 5 | 10 | Volcano Agent SDK: fluent API, MCP tools, multi-provider pipelines, observability | [learn-volcano-sdk ↗](https://kong-grajesh-se.github.io/learn-volcano-sdk/) |
 
 ## Quick Start
 
