@@ -24,49 +24,49 @@ features:
     title: "API Gateway Bootcamp"
     details: "8 modules, 17 labs, 20+ plugins. From your first proxied request to a 15-step production capstone. Routing, auth, traffic control, transformations, observability, enterprise features."
     link: https://kong-grajesh-se.github.io/learn-kong-gateway/
-    linkText: Start bootcamp →
+    linkText: Start bootcamp
 
   - icon: 🤖
     title: "AI Gateway Bootcamp"
     details: "12 labs covering ai-proxy, prompt guard, prompt decorator, semantic caching, rate-limiting by tokens, PII redaction, and multi-LLM failover."
     link: https://kong-grajesh-se.github.io/learn-kong-ai-gateway/
-    linkText: Start bootcamp →
+    linkText: Start bootcamp
 
   - icon: 🛠️
     title: "Agentic AI Bootcamp"
     details: "4 modules: MCP Proxy (4 modes), MCP OAuth2/PKCE with Keycloak, A2A agent routing, AI Custom Guardrail. Kong 3.14+ required."
     link: https://kong-grajesh-se.github.io/learn-kong-agentic-bootcamp/
-    linkText: Start bootcamp →
+    linkText: Start bootcamp
 
   - icon: 🤝
     title: "Bring Your Own Agent"
     details: "9 modules + capstone. Plug your own AI agent into Kong. Security guardrails, reliability, observability, MCP gateway, OAuth 2.1, OPA, A2A."
     link: https://kong-grajesh-se.github.io/bring-your-own-agent/
-    linkText: Start bootcamp →
+    linkText: Start bootcamp
 
   - icon: 🔄
     title: "APIOps Bootcamp"
     details: "GitOps with decK and GitHub Actions. Declarative config, multi-environment promotion, CI/CD pipelines with quality gates."
     link: https://kong-grajesh-se.github.io/learn-kong-apiops-bootcamp/
-    linkText: Start bootcamp →
+    linkText: Start bootcamp
 
   - icon: 🌐
     title: "Developer Portal Bootcamp"
     details: "Publish APIs, configure OIDC SSO, manage teams with RBAC. Self-service app registration and API key management on Konnect."
     link: https://kong-grajesh-se.github.io/learn-kong-dev-portal/
-    linkText: Start bootcamp →
+    linkText: Start bootcamp
 
   - icon: 🎮
     title: "Insomnia Bootcamp"
     details: "8 modules: API design, collections, environments, testing, mock servers, Inso CLI CI/CD, and enterprise features."
     link: https://kong-grajesh-se.github.io/learn-insomnia/
-    linkText: Start bootcamp →
+    linkText: Start bootcamp
 
   - icon: 🌋
     title: "Volcano SDK Bootcamp"
     details: "5 modules, 10 labs. Build production-ready AI agents with Volcano Agent SDK - fluent API, MCP tools, multi-provider pipelines, observability."
     link: https://kong-grajesh-se.github.io/learn-volcano-sdk/
-    linkText: Start bootcamp →
+    linkText: Start bootcamp
 
 ---
 
