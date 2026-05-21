@@ -68,7 +68,7 @@ features:
     <span class="coming-soon-icon">🚀</span>
     <div>
       <h2 class="coming-soon-title">Coming Soon</h2>
-      <p class="coming-soon-subtitle">Stay tuned — these bootcamps are being built and will be available shortly.</p>
+      <p class="coming-soon-subtitle">Stay tuned - these bootcamps are being built and will be available shortly.</p>
     </div>
   </div>
   <div class="coming-soon-grid">
@@ -80,7 +80,7 @@ features:
     <div class="coming-soon-card">
       <div class="coming-soon-card-icon"></div>
       <div class="coming-soon-card-title">Volcano SDK Bootcamp</div>
-      <div class="coming-soon-card-desc">5 modules, 10 labs. Build production-ready AI agents with Volcano Agent SDK — fluent API, MCP tools, multi-provider pipelines, observability.</div>
+      <div class="coming-soon-card-desc">5 modules, 10 labs. Build production-ready AI agents with Volcano Agent SDK - fluent API, MCP tools, multi-provider pipelines, observability.</div>
     </div>
   </div>
 </div>
