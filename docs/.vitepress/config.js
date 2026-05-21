@@ -47,15 +47,24 @@ export default defineConfig({
       {
         text: '🚀 Bootcamps',
         items: [
-          { text: '🔀 API Gateway',        link: 'https://kong-grajesh-se.github.io/learn-kong-gateway/', target: '_blank' },
-          { text: '🤖 AI Gateway',         link: 'https://kong-grajesh-se.github.io/learn-kong-ai-gateway/', target: '_blank' },
-          { text: '🛠️ Agentic AI',          link: 'https://kong-grajesh-se.github.io/learn-kong-agentic-bootcamp/', target: '_blank' },
-          { text: '🔄 APIOps',             link: 'https://kong-grajesh-se.github.io/learn-kong-apiops-bootcamp/', target: '_blank' },
-          { text: '🌐 Developer Portal',   link: 'https://kong-grajesh-se.github.io/learn-kong-dev-portal/', target: '_blank' },
-          { text: '🎮 Insomnia',           link: 'https://kong-grajesh-se.github.io/learn-insomnia/', target: '_blank' },
-          { text: '─── Coming Soon ───' },
-          { text: '🤝 Bring Your Own Agent', link: 'https://kong-grajesh-se.github.io/bring-your-own-agent/', target: '_blank' },
-          { text: '🌋 Volcano SDK',        link: 'https://kong-grajesh-se.github.io/learn-volcano-sdk/', target: '_blank' },
+          {
+            text: 'Live',
+            items: [
+              { text: '🔀 API Gateway',        link: 'https://kong-grajesh-se.github.io/learn-kong-gateway/', target: '_blank' },
+              { text: '🤖 AI Gateway',         link: 'https://kong-grajesh-se.github.io/learn-kong-ai-gateway/', target: '_blank' },
+              { text: '🛠️ Agentic AI',          link: 'https://kong-grajesh-se.github.io/learn-kong-agentic-bootcamp/', target: '_blank' },
+              { text: '🔄 APIOps',             link: 'https://kong-grajesh-se.github.io/learn-kong-apiops-bootcamp/', target: '_blank' },
+              { text: '🌐 Developer Portal',   link: 'https://kong-grajesh-se.github.io/learn-kong-dev-portal/', target: '_blank' },
+              { text: '🎮 Insomnia',           link: 'https://kong-grajesh-se.github.io/learn-insomnia/', target: '_blank' },
+            ],
+          },
+          {
+            text: 'Coming Soon',
+            items: [
+              { text: '🤝 Bring Your Own Agent', link: 'https://kong-grajesh-se.github.io/bring-your-own-agent/', target: '_blank' },
+              { text: '🌋 Volcano SDK',        link: 'https://kong-grajesh-se.github.io/learn-volcano-sdk/', target: '_blank' },
+            ],
+          },
         ],
       },
       {
