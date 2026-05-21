@@ -38,12 +38,6 @@ features:
     link: https://kong-grajesh-se.github.io/learn-kong-agentic-bootcamp/
     linkText: Start bootcamp
 
-  - icon: 🤝
-    title: "Bring Your Own Agent"
-    details: "9 modules + capstone. Plug your own AI agent into Kong. Security guardrails, reliability, observability, MCP gateway, OAuth 2.1, OPA, A2A."
-    # link: https://kong-grajesh-se.github.io/bring-your-own-agent/
-    linkText: 🔜 Coming Soon
-
   - icon: 🔄
     title: "APIOps Bootcamp"
     details: "Master decK CLI hands-on: gateway commands (ping, dump, diff, sync, apply), file commands (validate, lint, merge, patch), and multi-team workflows."
@@ -56,23 +50,38 @@ features:
     link: https://kong-grajesh-se.github.io/learn-kong-dev-portal/
     linkText: Start bootcamp
 
-  - icon: 🎮
-    title: "Insomnia Bootcamp"
-    details: "8 modules: API design, collections, environments, testing, mock servers, Inso CLI CI/CD, and enterprise features."
-    # link: https://kong-grajesh-se.github.io/learn-insomnia/
-    linkText: 🔜 Coming Soon
-
-  - icon: 🌋
-    title: "Volcano SDK Bootcamp"
-    details: "5 modules, 10 labs. Build production-ready AI agents with Volcano Agent SDK - fluent API, MCP tools, multi-provider pipelines, observability."
-    # link: https://kong-grajesh-se.github.io/learn-volcano-sdk/
-    linkText: 🔜 Coming Soon
-
 ---
 
 <div class="kong-version-banner">
   <span class="kong-version-pill">⚙️ Kong Gateway 3.14+</span>
   <span class="kong-version-text">All bootcamps target <strong>Kong Gateway 3.14</strong> on Konnect (free tier works). Plugin schemas, header behavior, and decK syntax assume 3.14 or newer.</span>
+</div>
+
+<div class="coming-soon-section">
+  <div class="coming-soon-header">
+    <span class="coming-soon-icon">🚀</span>
+    <div>
+      <h2 class="coming-soon-title">Coming Soon</h2>
+      <p class="coming-soon-subtitle">Stay tuned — these bootcamps are being built and will be available shortly.</p>
+    </div>
+  </div>
+  <div class="coming-soon-grid">
+    <div class="coming-soon-card">
+      <div class="coming-soon-card-icon">🤝</div>
+      <div class="coming-soon-card-title">Bring Your Own Agent</div>
+      <div class="coming-soon-card-desc">9 modules + capstone. Plug your own AI agent into Kong. Security guardrails, reliability, observability, MCP gateway, OAuth 2.1, OPA, A2A.</div>
+    </div>
+    <div class="coming-soon-card">
+      <div class="coming-soon-card-icon">🎮</div>
+      <div class="coming-soon-card-title">Insomnia Bootcamp</div>
+      <div class="coming-soon-card-desc">8 modules: API design, collections, environments, testing, mock servers, Inso CLI CI/CD, and enterprise features.</div>
+    </div>
+    <div class="coming-soon-card">
+      <div class="coming-soon-card-icon">🌋</div>
+      <div class="coming-soon-card-title">Volcano SDK Bootcamp</div>
+      <div class="coming-soon-card-desc">5 modules, 10 labs. Build production-ready AI agents with Volcano Agent SDK — fluent API, MCP tools, multi-provider pipelines, observability.</div>
+    </div>
+  </div>
 </div>
 
 <div class="kong-stats-strip">
@@ -139,7 +148,7 @@ features:
     <span class="step-arrow">→</span>
     <a href="https://kong-grajesh-se.github.io/learn-kong-gateway/" class="step">API Gateway</a>
     <span class="step-arrow">→</span>
-    <span class="step coming-soon">Dev Portal</span>
+    <a href="https://kong-grajesh-se.github.io/learn-kong-dev-portal/" class="step">Dev Portal</a>
   </div>
 </div>
 
@@ -158,9 +167,9 @@ features:
     <span class="step-arrow">→</span>
     <span class="step coming-soon">BYOA</span>
     <span class="step-arrow">→</span>
-    <span class="step coming-soon">APIOps</span>
+    <a href="https://kong-grajesh-se.github.io/learn-kong-apiops-bootcamp/" class="step">APIOps</a>
     <span class="step-arrow">→</span>
-    <span class="step coming-soon">Portal</span>
+    <a href="https://kong-grajesh-se.github.io/learn-kong-dev-portal/" class="step">Portal</a>
     <span class="step-arrow">→</span>
     <span class="step coming-soon">Insomnia</span>
   </div>

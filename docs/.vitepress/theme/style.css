@@ -405,6 +405,81 @@ body {
   border-style: dashed;
 }
 
+/* ════════ COMING SOON SECTION ═══════════════════════════════════════════ */
+.coming-soon-section {
+  max-width: 1152px;
+  margin: 48px auto 56px;
+  padding: 0 24px;
+}
+.coming-soon-header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 24px;
+  padding-bottom: 16px;
+  border-bottom: 1px dashed rgba(161, 166, 159, 0.25);
+}
+.coming-soon-icon {
+  font-size: 2rem;
+  line-height: 1;
+}
+.coming-soon-title {
+  font-family: 'Funnel Sans', sans-serif;
+  font-weight: 700;
+  font-size: 1.4rem;
+  letter-spacing: -0.02em;
+  color: var(--kong-gray-300) !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: none !important;
+}
+.coming-soon-subtitle {
+  font-size: 0.9rem;
+  color: var(--kong-text-muted);
+  margin: 4px 0 0;
+  line-height: 1.4;
+}
+.coming-soon-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+.coming-soon-card {
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px dashed rgba(161, 166, 159, 0.20);
+  border-radius: 10px;
+  padding: 20px;
+  opacity: 0.6;
+  transition: opacity 0.2s, border-color 0.2s;
+}
+.coming-soon-card:hover {
+  opacity: 0.8;
+  border-color: rgba(161, 166, 159, 0.35);
+}
+.coming-soon-card-icon {
+  font-size: 1.6rem;
+  line-height: 1;
+  margin-bottom: 10px;
+}
+.coming-soon-card-title {
+  font-family: 'Funnel Sans', sans-serif;
+  font-weight: 700;
+  font-size: 0.92rem;
+  letter-spacing: -0.01em;
+  color: var(--kong-gray-300);
+  margin-bottom: 6px;
+}
+.coming-soon-card-desc {
+  font-size: 0.82rem;
+  line-height: 1.6;
+  color: var(--kong-text-muted);
+}
+
+@media (max-width: 768px) {
+  .coming-soon-grid { grid-template-columns: 1fr; }
+  .coming-soon-header { flex-direction: column; text-align: center; gap: 8px; }
+}
+
 @media (max-width: 768px) {
   .learning-paths-grid { grid-template-columns: 1fr; }
   .path-steps { gap: 6px; }
