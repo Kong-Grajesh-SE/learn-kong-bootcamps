@@ -52,9 +52,9 @@ features:
 
   - icon: 🌐
     title: "Developer Portal Bootcamp"
-    details: "Publish APIs, configure OIDC SSO, manage teams with RBAC. Self-service app registration and API key management on Konnect."
-    # link: https://kong-grajesh-se.github.io/learn-kong-dev-portal/
-    linkText: 🔜 Coming Soon
+    details: "3 labs: publish APIs with OpenAPI specs, configure auth strategies for developer self-service, customise with pages, teams, and SSO. All on Konnect."
+    link: https://kong-grajesh-se.github.io/learn-kong-dev-portal/
+    linkText: Start bootcamp
 
   - icon: 🎮
     title: "Insomnia Bootcamp"
@@ -107,9 +107,9 @@ features:
   <div class="path-steps">
     <a href="https://kong-grajesh-se.github.io/learn-kong-gateway/" class="step">API Gateway</a>
     <span class="step-arrow">→</span>
-    <span class="step coming-soon">APIOps</span>
+    <a href="https://kong-grajesh-se.github.io/learn-kong-apiops-bootcamp/" class="step">APIOps</a>
     <span class="step-arrow">→</span>
-    <span class="step coming-soon">Dev Portal</span>
+    <a href="https://kong-grajesh-se.github.io/learn-kong-dev-portal/" class="step">Dev Portal</a>
   </div>
 </div>
 
