@@ -46,9 +46,9 @@ features:
 
   - icon: 🔄
     title: "APIOps Bootcamp"
-    details: "GitOps with decK and GitHub Actions. Declarative config, multi-environment promotion, CI/CD pipelines with quality gates."
-    # link: https://kong-grajesh-se.github.io/learn-kong-apiops-bootcamp/
-    linkText: 🔜 Coming Soon
+    details: "Master decK CLI hands-on: gateway commands (ping, dump, diff, sync, apply), file commands (validate, lint, merge, patch), and multi-team workflows."
+    link: https://kong-grajesh-se.github.io/learn-kong-apiops-bootcamp/
+    linkText: Start bootcamp
 
   - icon: 🌐
     title: "Developer Portal Bootcamp"
