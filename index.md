@@ -41,32 +41,32 @@ features:
   - icon: 🤝
     title: "Bring Your Own Agent"
     details: "9 modules + capstone. Plug your own AI agent into Kong. Security guardrails, reliability, observability, MCP gateway, OAuth 2.1, OPA, A2A."
-    link: https://kong-grajesh-se.github.io/bring-your-own-agent/
-    linkText: Start bootcamp
+    # link: https://kong-grajesh-se.github.io/bring-your-own-agent/
+    linkText: 🔜 Coming Soon
 
   - icon: 🔄
     title: "APIOps Bootcamp"
     details: "GitOps with decK and GitHub Actions. Declarative config, multi-environment promotion, CI/CD pipelines with quality gates."
-    link: https://kong-grajesh-se.github.io/learn-kong-apiops-bootcamp/
-    linkText: Start bootcamp
+    # link: https://kong-grajesh-se.github.io/learn-kong-apiops-bootcamp/
+    linkText: 🔜 Coming Soon
 
   - icon: 🌐
     title: "Developer Portal Bootcamp"
     details: "Publish APIs, configure OIDC SSO, manage teams with RBAC. Self-service app registration and API key management on Konnect."
-    link: https://kong-grajesh-se.github.io/learn-kong-dev-portal/
-    linkText: Start bootcamp
+    # link: https://kong-grajesh-se.github.io/learn-kong-dev-portal/
+    linkText: 🔜 Coming Soon
 
   - icon: 🎮
     title: "Insomnia Bootcamp"
     details: "8 modules: API design, collections, environments, testing, mock servers, Inso CLI CI/CD, and enterprise features."
-    link: https://kong-grajesh-se.github.io/learn-insomnia/
-    linkText: Start bootcamp
+    # link: https://kong-grajesh-se.github.io/learn-insomnia/
+    linkText: 🔜 Coming Soon
 
   - icon: 🌋
     title: "Volcano SDK Bootcamp"
     details: "5 modules, 10 labs. Build production-ready AI agents with Volcano Agent SDK - fluent API, MCP tools, multi-provider pipelines, observability."
-    link: https://kong-grajesh-se.github.io/learn-volcano-sdk/
-    linkText: Start bootcamp
+    # link: https://kong-grajesh-se.github.io/learn-volcano-sdk/
+    linkText: 🔜 Coming Soon
 
 ---
 
@@ -107,9 +107,9 @@ features:
   <div class="path-steps">
     <a href="https://kong-grajesh-se.github.io/learn-kong-gateway/" class="step">API Gateway</a>
     <span class="step-arrow">→</span>
-    <a href="https://kong-grajesh-se.github.io/learn-kong-apiops-bootcamp/" class="step">APIOps</a>
+    <span class="step coming-soon">APIOps</span>
     <span class="step-arrow">→</span>
-    <a href="https://kong-grajesh-se.github.io/learn-kong-dev-portal/" class="step">Dev Portal</a>
+    <span class="step coming-soon">Dev Portal</span>
   </div>
 </div>
 
@@ -124,7 +124,7 @@ features:
     <span class="step-arrow">→</span>
     <a href="https://kong-grajesh-se.github.io/learn-kong-agentic-bootcamp/" class="step">Agentic AI</a>
     <span class="step-arrow">→</span>
-    <a href="https://kong-grajesh-se.github.io/bring-your-own-agent/" class="step">BYOA</a>
+    <span class="step coming-soon">BYOA</span>
   </div>
 </div>
 
@@ -135,11 +135,11 @@ features:
   </div>
   <p class="path-desc">Design, test, deploy, and publish APIs end-to-end.</p>
   <div class="path-steps">
-    <a href="https://kong-grajesh-se.github.io/learn-insomnia/" class="step">Insomnia</a>
+    <span class="step coming-soon">Insomnia</span>
     <span class="step-arrow">→</span>
     <a href="https://kong-grajesh-se.github.io/learn-kong-gateway/" class="step">API Gateway</a>
     <span class="step-arrow">→</span>
-    <a href="https://kong-grajesh-se.github.io/learn-kong-dev-portal/" class="step">Dev Portal</a>
+    <span class="step coming-soon">Dev Portal</span>
   </div>
 </div>
 
@@ -156,13 +156,13 @@ features:
     <span class="step-arrow">→</span>
     <a href="https://kong-grajesh-se.github.io/learn-kong-agentic-bootcamp/" class="step">Agentic</a>
     <span class="step-arrow">→</span>
-    <a href="https://kong-grajesh-se.github.io/bring-your-own-agent/" class="step">BYOA</a>
+    <span class="step coming-soon">BYOA</span>
     <span class="step-arrow">→</span>
-    <a href="https://kong-grajesh-se.github.io/learn-kong-apiops-bootcamp/" class="step">APIOps</a>
+    <span class="step coming-soon">APIOps</span>
     <span class="step-arrow">→</span>
-    <a href="https://kong-grajesh-se.github.io/learn-kong-dev-portal/" class="step">Portal</a>
+    <span class="step coming-soon">Portal</span>
     <span class="step-arrow">→</span>
-    <a href="https://kong-grajesh-se.github.io/learn-insomnia/" class="step">Insomnia</a>
+    <span class="step coming-soon">Insomnia</span>
   </div>
 </div>
 
