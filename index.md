@@ -147,13 +147,13 @@ features:
     <span class="step-arrow">→</span>
     <a href="https://kong-grajesh-se.github.io/learn-kong-agentic-bootcamp/" class="step">Agentic</a>
     <span class="step-arrow">→</span>
-    <span class="step coming-soon">BYOA</span>
-    <span class="step-arrow">→</span>
     <a href="https://kong-grajesh-se.github.io/learn-kong-apiops-bootcamp/" class="step">APIOps</a>
     <span class="step-arrow">→</span>
     <a href="https://kong-grajesh-se.github.io/learn-kong-dev-portal/" class="step">Portal</a>
     <span class="step-arrow">→</span>
     <a href="https://kong-grajesh-se.github.io/learn-insomnia/" class="step">Insomnia</a>
+    <span class="step-arrow">→</span>
+    <span class="step coming-soon">BYOA</span>
   </div>
 </div>
 
