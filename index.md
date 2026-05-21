@@ -78,7 +78,7 @@ features:
       <div class="coming-soon-card-desc">9 modules + capstone. Plug your own AI agent into Kong. Security guardrails, reliability, observability, MCP gateway, OAuth 2.1, OPA, A2A.</div>
     </div>
     <div class="coming-soon-card">
-      <div class="coming-soon-card-icon"></div>
+      <div class="coming-soon-card-icon">🌋</div>
       <div class="coming-soon-card-title">Volcano SDK Bootcamp</div>
       <div class="coming-soon-card-desc">5 modules, 10 labs. Build production-ready AI agents with Volcano Agent SDK - fluent API, MCP tools, multi-provider pipelines, observability.</div>
     </div>
