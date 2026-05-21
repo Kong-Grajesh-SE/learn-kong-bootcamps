@@ -85,25 +85,6 @@ features:
   </div>
 </div>
 
-<div class="kong-stats-strip">
-  <div class="stat">
-    <div class="stat-num">8</div>
-    <div class="stat-label">Bootcamps</div>
-  </div>
-  <div class="stat">
-    <div class="stat-num">30+</div>
-    <div class="stat-label">Modules</div>
-  </div>
-  <div class="stat">
-    <div class="stat-num">60+</div>
-    <div class="stat-label">Hands-on labs</div>
-  </div>
-  <div class="stat">
-    <div class="stat-num">40+</div>
-    <div class="stat-label">Plugins covered</div>
-  </div>
-</div>
-
 ## Learning Paths
 
 <div class="learning-paths-grid">
@@ -187,4 +168,3 @@ Every bootcamp follows the same design pattern:
 | **Module README** | Scenario blockquote → "What you'll have" → 3 concepts → Labs table → Exit ticket → Common pitfalls |
 | **Lab files** | Goal blockquote → Step-by-step with time estimates → ✅ Checkpoints → code-group (Admin API + decK) → tip/warning/info callouts |
 | **Prerequisites** | Required tools table with verification commands |
-| **VitePress docs** | Dark-theme documentation site with sidebar navigation |
