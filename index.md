@@ -82,6 +82,21 @@ features:
       <div class="coming-soon-card-title">Volcano SDK Bootcamp</div>
       <div class="coming-soon-card-desc">5 modules, 10 labs. Build production-ready AI agents with Volcano Agent SDK - fluent API, MCP tools, multi-provider pipelines, observability.</div>
     </div>
+    <div class="coming-soon-card">
+      <div class="coming-soon-card-icon">⚡</div>
+      <div class="coming-soon-card-title">Event Gateway Bootcamp</div>
+      <div class="coming-soon-card-desc">Real-time event streaming through Kong Event Gateway. Async APIs, WebSocket routing, Kafka bridging, and event-driven architecture patterns.</div>
+    </div>
+    <div class="coming-soon-card">
+      <div class="coming-soon-card-icon">🕸️</div>
+      <div class="coming-soon-card-title">Context Mesh Bootcamp</div>
+      <div class="coming-soon-card-desc">Distributed context propagation across services. Trace enrichment, service mesh integration, and unified policy enforcement with Kong Context Mesh.</div>
+    </div>
+    <div class="coming-soon-card">
+      <div class="coming-soon-card-icon">💳</div>
+      <div class="coming-soon-card-title">Billing & Metering Bootcamp</div>
+      <div class="coming-soon-card-desc">API monetisation end-to-end. Usage metering, quota enforcement, rate-limit tiers, billing integrations, and cost attribution with Kong.</div>
+    </div>
   </div>
 </div>
 
@@ -101,6 +116,10 @@ features:
     <a href="https://kong-grajesh-se.github.io/learn-kong-apiops-bootcamp/" class="step">APIOps</a>
     <span class="step-arrow">→</span>
     <a href="https://kong-grajesh-se.github.io/learn-kong-dev-portal/" class="step">Dev Portal</a>
+    <span class="step-arrow">→</span>
+    <span class="step coming-soon">Event Gateway</span>
+    <span class="step-arrow">→</span>
+    <span class="step coming-soon">Context Mesh</span>
   </div>
 </div>
 
@@ -131,6 +150,8 @@ features:
     <a href="https://kong-grajesh-se.github.io/learn-kong-gateway/" class="step">API Gateway</a>
     <span class="step-arrow">→</span>
     <a href="https://kong-grajesh-se.github.io/learn-kong-dev-portal/" class="step">Dev Portal</a>
+    <span class="step-arrow">→</span>
+    <span class="step coming-soon">Billing & Metering</span>
   </div>
 </div>
 
@@ -154,6 +175,12 @@ features:
     <a href="https://kong-grajesh-se.github.io/learn-insomnia/" class="step">Insomnia</a>
     <span class="step-arrow">→</span>
     <span class="step coming-soon">BYOA</span>
+    <span class="step-arrow">→</span>
+    <span class="step coming-soon">Event Gateway</span>
+    <span class="step-arrow">→</span>
+    <span class="step coming-soon">Context Mesh</span>
+    <span class="step-arrow">→</span>
+    <span class="step coming-soon">Billing & Metering</span>
   </div>
 </div>
 

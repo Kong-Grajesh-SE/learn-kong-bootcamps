@@ -61,8 +61,11 @@ export default defineConfig({
           {
             text: 'Coming Soon',
             items: [
-              { text: '🤝 Bring Your Own Agent', link: 'https://kong-grajesh-se.github.io/bring-your-own-agent/', target: '_blank' },
-              { text: '🌋 Volcano SDK',        link: 'https://kong-grajesh-se.github.io/learn-volcano-sdk/', target: '_blank' },
+              { text: '🤝 Bring Your Own Agent 🔜', link: '/' },
+              { text: '🌋 Volcano SDK 🔜',          link: '/' },
+              { text: '⚡ Event Gateway 🔜',         link: '/' },
+              { text: '🕸️ Context Mesh 🔜',          link: '/' },
+              { text: '💳 Billing & Metering 🔜',    link: '/' },
             ],
           },
         ],
